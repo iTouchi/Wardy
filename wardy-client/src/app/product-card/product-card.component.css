@@ -1,0 +1,17 @@
+.card {
+  margin-bottom: 30px;
+}
+
+.card-footer {
+  padding: 0;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: contain;
+}
+
+.card-footer button{
+  cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.dropdown-toggle {
+  cursor: pointer;
+}
+.star {
+  width: 30px;
+  height: auto;
+  padding: 5px;
+}
